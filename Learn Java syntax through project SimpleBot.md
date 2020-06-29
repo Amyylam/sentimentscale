@@ -1,5 +1,5 @@
 # Learn and apply Java basic syntax through project Simple Chatty Bot
-This is a guided project in the Java introduction course offered by [Jetbrains Academy](https://www.jetbrains.com/academy/)
+This is a guided project in the Java introduction course offered by [JetBrains Academy](https://www.jetbrains.com/academy/)
 
 ## Project: Simple Chatty Bot
 
