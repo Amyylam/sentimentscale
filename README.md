@@ -3,7 +3,7 @@
 ### Food Recipe query bot
 - solve a common daily problem with rules-based chatbot by querying a recipe dataframe
 
-![recipe bot demo](https://github.com/Amyylam/sentimentscale/blob/master/Capture_recipebot_demo.PNG)
+![recipe bot demo](https://github.com/Amyylam/sentimentscale/blob/master/demo_recipebot.gif)
 [source code](https://github.com/Amyylam/sentimentscale/blob/master/recipe_bot.ipynb)
 
 ### Guided project: Learn Java syntax through project SimpleBot
