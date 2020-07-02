@@ -1,6 +1,4 @@
-# sentimentscale
-
-## latest highlights:
+## Latest personal project highlights:
 
 ### Food Recipe query bot
 - solve a common daily problem with rules-based chatbot by querying a recipe dataframe
