@@ -1,11 +1,17 @@
 ## Latest personal project highlights:
 
-###  Food Recipe query bot
+###  Food Recipe query bot 
 - solve a common daily problem with rules-based chatbot by querying a recipe dataframe
 
 ![recipe bot demo](https://github.com/Amyylam/sentimentscale/blob/master/demo_recipebot.gif)
 
 [source code](https://github.com/Amyylam/sentimentscale/blob/master/recipe_bot.ipynb)
+
+- sister streamlit app now up and running on http://recipe-query-bot.herokuapp.com/!
+
+![recipe_gif](recipe_gif.gif)
+
+[source_code](https://github.com/Amyylam/sentimentscale/blob/master/recipe_bot_app.py)
 
 ###  [Guided project: Learn Java syntax through SimpleBot project](https://github.com/Amyylam/sentimentscale/blob/master/Learn%20Java%20syntax%20through%20project%20SimpleBot.md)
 
