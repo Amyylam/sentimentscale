@@ -4,6 +4,7 @@
 - solve a common daily problem with rules-based chatbot by querying a recipe dataframe
 
 ![recipe bot demo](https://github.com/Amyylam/sentimentscale/blob/master/demo_recipebot.gif)
+
 [source code](https://github.com/Amyylam/sentimentscale/blob/master/recipe_bot.ipynb)
 
 ###  [Guided project: Learn Java syntax through SimpleBot project](https://github.com/Amyylam/sentimentscale/blob/master/Learn%20Java%20syntax%20through%20project%20SimpleBot.md)
@@ -12,7 +13,6 @@
 -	Deployed a finetuned text classifier from pretrained BERT embeddings to a frontend web application. User can input a news headline or a CSV of headlines to make inferences.
 
 ![Simple news sentiment analyzer app made with Streamlit](https://github.com/Amyylam/sentimentscale/blob/master/news_senti_app_demo.gif)
-
 
 [code file](https://github.com/Amyylam/sentimentscale/blob/master/flair_make_predictions_app.py)
 
