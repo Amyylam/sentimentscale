@@ -9,7 +9,7 @@
 
 - sister streamlit app now up and running on http://recipe-query-bot.herokuapp.com/!
 
-![recipe_gif](recipe_gif.gif)
+![recipe_gif](recipebot_demo_chickenham.gif)
 
 [source_code](https://github.com/Amyylam/sentimentscale/blob/master/recipe_bot_app.py)
 
