@@ -13,6 +13,8 @@
 
 [source_code](https://github.com/Amyylam/sentimentscale/blob/master/recipe_bot_app.py)
 
+New add-on! - [speech recognition mode app source code](https://github.com/Amyylam/sentimentscale/blob/master/recipe_bot_app_audiomode.py)
+
 ###  [Guided project: Learn Java syntax through SimpleBot project](https://github.com/Amyylam/sentimentscale/blob/master/Learn%20Java%20syntax%20through%20project%20SimpleBot.md)
 
 ###  Business Sentiment Analyzer: a streamlit app for making sentiment analyzer predictions
