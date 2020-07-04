@@ -3,8 +3,6 @@
 ###  Food Recipe query bot 
 - solve a common daily problem with rules-based chatbot by querying a recipe dataframe
 
-![recipe bot demo](https://github.com/Amyylam/sentimentscale/blob/master/demo_recipebot.gif)
-
 [source code](https://github.com/Amyylam/sentimentscale/blob/master/recipe_bot.ipynb)
 
 - sister streamlit app now up and running on http://recipe-query-bot.herokuapp.com/!
