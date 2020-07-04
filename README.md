@@ -14,6 +14,7 @@
 [source_code](https://github.com/Amyylam/sentimentscale/blob/master/recipe_bot_app.py)
 
 New add-on! - [speech recognition mode app source code](https://github.com/Amyylam/sentimentscale/blob/master/recipe_bot_app_audiomode.py)
+![[recipe bot speech recognition mode](Capture_audioapp_crop.PNG)](https://youtu.be/Ae2fZu4opic)
 
 ###  [Guided project: Learn Java syntax through SimpleBot project](https://github.com/Amyylam/sentimentscale/blob/master/Learn%20Java%20syntax%20through%20project%20SimpleBot.md)
 
