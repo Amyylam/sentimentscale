@@ -3,17 +3,22 @@
 ###  Food Recipe query bot 
 - solve a common daily problem with rules-based chatbot by querying a recipe dataframe
 
-[source code](https://github.com/Amyylam/sentimentscale/blob/master/recipe_bot.ipynb)
-
-- sister streamlit app now up and running on http://recipe-query-bot.herokuapp.com/!
-
-![recipe_gif](recipebot_demo_chickenham.gif)
-
-[source_code](https://github.com/Amyylam/sentimentscale/blob/master/recipe_bot_app.py)
+[prototype code](https://github.com/Amyylam/sentimentscale/blob/master/recipe_bot.ipynb)
 
 New add-on! - [speech recognition mode app source code](https://github.com/Amyylam/sentimentscale/blob/master/recipe_bot_app_audiomode.py)
 
-[![recipe bot speech recognition mode](https://github.com/Amyylam/sentimentscale/blob/master/Capture_audioapp_crop.PNG)](https://youtu.be/Ae2fZu4opic)
+[![recipe bot speech recognition mode demo](https://github.com/Amyylam/sentimentscale/blob/master/Capture_audioapp_crop.PNG)](https://youtu.be/Ae2fZu4opic)
+
+- sister streamlit app now up and running on http://recipe-query-bot.herokuapp.com/!
+
+<img src='https://github.com/Amyylam/sentimentscale/blob/master/recipebot_demo_chickenham.gif' width=500 height=500 alt='recipe_demo_chickenham_gif'>
+
+[source_code](https://github.com/Amyylam/sentimentscale/blob/master/recipe_bot_app.py)
+
+- responding to friend's request, a [button-clicking recipe query Dash app](http://recipe-query.herokuapp.com/) is also serving! <http://recipe-query.herokuapp.com/>
+<img src='https://github.com/Amyylam/sentimentscale/blob/master/button_app_filteredingredients.gif' width=500 height=500 alt="button-clicking recipe query Dash app">
+
+[button app source code](https://github.com/Amyylam/sentimentscale/blob/master/recipe_query_button_app.py)
 
 ###  [Guided project: Learn Java syntax through SimpleBot project](https://github.com/Amyylam/sentimentscale/blob/master/Learn%20Java%20syntax%20through%20project%20SimpleBot.md)
 
