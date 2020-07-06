@@ -15,6 +15,10 @@ New add-on! - [speech recognition mode app source code](https://github.com/Amyyl
 
 [![recipe bot speech recognition mode](https://github.com/Amyylam/sentimentscale/blob/master/Capture_audioapp_crop.PNG)](https://youtu.be/Ae2fZu4opic)
 
+- responding to friend's request, a [button-clicking recipe query Dash app is also up and running!](http://recipe-query.herokuapp.com/)
+<img src='https://github.com/Amyylam/sentimentscale/blob/master/button_app_filteredingredients.gif' width=500 height=500>
+[button app source code](https://github.com/Amyylam/sentimentscale/blob/master/recipe_query_button_app.py)
+
 ###  [Guided project: Learn Java syntax through SimpleBot project](https://github.com/Amyylam/sentimentscale/blob/master/Learn%20Java%20syntax%20through%20project%20SimpleBot.md)
 
 ###  Business Sentiment Analyzer: a streamlit app for making sentiment analyzer predictions
