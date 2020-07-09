@@ -7,16 +7,16 @@
 
 New add-on! - [speech recognition mode app source code](https://github.com/Amyylam/sentimentscale/blob/master/recipe_bot_app_audiomode.py)
 
-[![recipe bot speech recognition mode demo](https://github.com/Amyylam/sentimentscale/blob/master/Capture_audioapp_crop.PNG)](https://youtu.be/Ae2fZu4opic)
+[![recipe bot speech recognition mode demo](https://github.com/Amyylam/sentimentscale/blob/master/img/Capture_audioapp_crop.PNG)](https://youtu.be/Ae2fZu4opic)
 
-- sister streamlit app now up and running on http://recipe-query-bot.herokuapp.com/!
+- sister streamlit app up and running on http://recipe-query-bot.herokuapp.com/!
++ update on Jul8: added Cantonese language support! now a Billingual app!
+<img src='https://github.com/Amyylam/sentimentscale/blob/master/img/recipebot_demo_chickenham.gif' width=500 height=500 alt='recipe_demo_chickenham_gif'>
 
-<img src='https://github.com/Amyylam/sentimentscale/blob/master/recipebot_demo_chickenham.gif' width=500 height=500 alt='recipe_demo_chickenham_gif'>
-
-[source_code](https://github.com/Amyylam/sentimentscale/blob/master/recipe_bot_app.py)
+[Bilingual version source_code](https://github.com/Amyylam/sentimentscale/blob/master/bilingual_recipe_bot.py) 
 
 - responding to friend's request, a [button-clicking recipe query Dash app](http://recipe-query.herokuapp.com/) is also serving! <http://recipe-query.herokuapp.com/>
-<img src='https://github.com/Amyylam/sentimentscale/blob/master/button_app_filteredingredients.gif' width=500 height=500 alt="button-clicking recipe query Dash app">
+<img src='https://github.com/Amyylam/sentimentscale/blob/master/img/button_app_filteredingredients.gif' width=500 height=500 alt="button-clicking recipe query Dash app">
 
 [button app source code](https://github.com/Amyylam/sentimentscale/blob/master/recipe_query_button_app.py)
 
@@ -25,7 +25,7 @@ New add-on! - [speech recognition mode app source code](https://github.com/Amyyl
 ###  Business Sentiment Analyzer: a streamlit app for making sentiment analyzer predictions
 -	Deployed a finetuned text classifier from pretrained BERT embeddings to a frontend web application. User can input a news headline or a CSV of headlines to make inferences.
 
-![Simple news sentiment analyzer app made with Streamlit](https://github.com/Amyylam/sentimentscale/blob/master/news_senti_app_demo.gif)
+![Simple news sentiment analyzer app made with Streamlit](https://github.com/Amyylam/sentimentscale/blob/master/img/news_senti_app_demo.gif)
 
 [code file](https://github.com/Amyylam/sentimentscale/blob/master/flair_make_predictions_app.py)
 
