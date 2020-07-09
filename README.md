@@ -12,7 +12,9 @@ New add-on! - [speech recognition mode app source code](https://github.com/Amyyl
 - sister streamlit app up and running on http://recipe-query-bot.herokuapp.com/!
 + update on Jul8: added Cantonese language support! now a Billingual app!
 <img src='https://github.com/Amyylam/sentimentscale/blob/master/img/recipebot_demo_chickenham.gif' width=500 height=500 alt='recipe_demo_chickenham_gif'>
-<img src='https://github.com/Amyylam/sentimentscale/blob/master/img/bilingual_recipe_bot.gif' width=600 height=500 alt='bilingual_recipe_bot_gif'>
+
+<img src='https://github.com/Amyylam/sentimentscale/blob/master/img/bilingual_recipe_bot.gif' width=700 height=450 alt='bilingual_recipe_bot_gif'>
+
 [Bilingual version source_code](https://github.com/Amyylam/sentimentscale/blob/master/bilingual_recipe_bot.py) 
 
 - responding to friend's request, a [button-clicking recipe query Dash app](http://recipe-query.herokuapp.com/) is also serving! <http://recipe-query.herokuapp.com/>
