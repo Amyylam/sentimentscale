@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width">
+
+    <title>Recipe search</title>
+
+    <link rel="stylesheet" href="style.css">
+    <!--[if lt IE 9]>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+    <h1>Recipe search with speech recognition</h1>
+    <form id="form" action="/">
+    <label for='liked_ingredients'>What do you like to taste?</label>
+    <!--<p class="Q1">What do you like to taste?</p>-->
+    <input type='text' id='liked_ingredients' name='liked_ingredients'>
+    <!--<p class="hints"></p>-->
+
+    <span class="output"><em></em></span>
+    <br>
+    <label for='disliked_ingredients'>What do you hate?</label>
+    <!--<p class="Q2">What do you hate?</p>-->
+    <input type='text' id='disliked_ingredients' name='disliked_ingredients'>
+
+    <!--<span class="output2"><em>ouput2</em></span>-->
+
+    <button type="button" name="submit" onclick="submit_form();" style="width:75px; height:30px;font-size:14">Correct!</button>
+    </form>
+    <p class="recipetext" id="recipetext"> First 10 matching recipes will appear here</p>
+   
+
+    <div class="maintext" id="maintext"><p>The recipe you picked will appear here</p>
+    <!--<form id='recipe' action='/'>
+    <label for='recipe_options'>Choose a recipe among 10 random draws:</label>
+    <select id='recipe_options'>
+    </select>
+    <input type='submit' onclick='submit_recipe();'>
+    </form>-->
+    </div> 
+    
+
+    <script src="script.js"></script>
+  </body>
+</html>
