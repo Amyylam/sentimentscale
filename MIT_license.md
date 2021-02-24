@@ -1,4 +1,4 @@
-The chatbot scripts contained in this repository can be utilized under the following MIT License (MIT) Copyright © 2020 Ammylam,  https://github.com/Amyylam
+The scripts contained in this repository can be utilized under the following MIT License (MIT) Copyright © 2020 Ammylam,  https://github.com/Amyylam
 
 The MIT License (MIT) 
 
