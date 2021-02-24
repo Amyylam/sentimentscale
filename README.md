@@ -1,6 +1,6 @@
 ## Latest personal project highlights:
 
-###  Food Recipe query bot 
+###  Food Recipe query bot (MIT License (MIT) Copyright © 2020 Ammylam)
 - solve a common daily problem with rules-based chatbot by querying a recipe dataframe
 
 [prototype code](https://github.com/Amyylam/sentimentscale/blob/master/recipe_bot.ipynb)
@@ -48,3 +48,5 @@ New add-on! - [speech recognition mode app source code](https://github.com/Amyyl
 	[Dow Jones Index Up/Down Ratio Sentiment Track](https://github.com/Amyylam/sentimentscale/blob/master/UpDown_ratio_sentiment_track.ipynb)
 -	 Visualized most frequent words in retail investors’ tweets when stocks rally/plummet
 
+## License
+The scripts contained in this repository are under the MIT License (MIT) Copyright © 2020 Ammylam. Please attribute the original source if you adapt the scripts for your use and redistribute the adapted scripts.
