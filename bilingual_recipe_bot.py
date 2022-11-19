@@ -207,7 +207,7 @@ if lang_selected == "廣東話":
             #         st.markdown(return_str)
 
 else:
-    recipe_path = "recipes_4cols.csv"
+    recipe_path = "recipes_4cols_small.csv"
     recipe_db = load_data(recipe_path)
 
     st.header("Ask chatbot: What should I cook now?")
