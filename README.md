@@ -9,7 +9,7 @@ New add-on! - [speech recognition mode app source code](https://github.com/Amyyl
 
 [![recipe bot speech recognition mode demo](https://github.com/Amyylam/sentimentscale/blob/master/img/Capture_audioapp_crop.PNG)](https://youtu.be/Ae2fZu4opic)
 
-- sister streamlit app up and running on http://recipe-query-bot.herokuapp.com/!
+- sister streamlit app up and running on https://amyylam-sentimentscale-bilingual-recipe-bot-eqpawm.streamlit.app/!
 + update on Jul8: added Cantonese language support! now a Billingual app!
 <img src='https://github.com/Amyylam/sentimentscale/blob/master/img/recipebot_demo_chickenham.gif' width=500 height=500 alt='recipe_demo_chickenham_gif'>
 
